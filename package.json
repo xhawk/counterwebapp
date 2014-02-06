@@ -1,0 +1,20 @@
+{
+  "name": "counterwebapp",
+  "version": "0.1.0",
+  "description": "Basic java webapp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.14",
+    "gulp-watch": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "java"
+  ],
+  "author": "Tomi Savolainen",
+  "license": "ISC"
+}
